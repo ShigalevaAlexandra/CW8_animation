@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Сашина папка/РУКОН_цель/CW8_animation/media/videos/animation_squareCircle/480p15/partial_movie_files/animation_squareToCircle/1185818338_2686976359_223132457.mp4'
+file 'file:D:/Сашина папка/РУКОН_цель/CW8_animation/media/videos/animation_squareCircle/480p15/partial_movie_files/animation_squareToCircle/624642324_3882869477_666618010.mp4'
+file 'file:D:/Сашина папка/РУКОН_цель/CW8_animation/media/videos/animation_squareCircle/480p15/partial_movie_files/animation_squareToCircle/624642324_2164864682_666618010.mp4'
+file 'file:D:/Сашина папка/РУКОН_цель/CW8_animation/media/videos/animation_squareCircle/480p15/partial_movie_files/animation_squareToCircle/624642324_312052005_1467348063.mp4'
+file 'file:D:/Сашина папка/РУКОН_цель/CW8_animation/media/videos/animation_squareCircle/480p15/partial_movie_files/animation_squareToCircle/624642324_2550246214_2517360443.mp4'
+file 'file:D:/Сашина папка/РУКОН_цель/CW8_animation/media/videos/animation_squareCircle/480p15/partial_movie_files/animation_squareToCircle/624642324_1704852926_1541192484.mp4'

@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Сашина папка/РУКОН_цель/CW8_animation/media/videos/animation/480p15/partial_movie_files/CreateSquare/1185818338_2686976359_223132457.mp4'
+file 'file:D:/Сашина папка/РУКОН_цель/CW8_animation/media/videos/animation/480p15/partial_movie_files/CreateSquare/624642324_1747148218_666618010.mp4'
+file 'file:D:/Сашина папка/РУКОН_цель/CW8_animation/media/videos/animation/480p15/partial_movie_files/CreateSquare/624642324_1704852926_3355836814.mp4'
